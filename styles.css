@@ -1,0 +1,17 @@
+img{
+	width:350px;
+	border: 1px solid silver;
+
+}
+body{
+	background-color: #F5FFFA;
+	font-family:ariel;
+	font-size:22;
+	
+}
+.red{
+	color:red
+}
+#special{
+	border:2Px solid gold;
+}
